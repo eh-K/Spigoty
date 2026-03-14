@@ -23,3 +23,12 @@ One issue I found is porting down to 1.16 then going back up can cause issue. Th
 > Make sure your .iml file is the same as your module then remove any excess iml files.
 > 
 > then make sure your java version / dependencies are correct.
+
+## Updating along every update
+As of 2026, I will personally no longer support using the API method as above.
+
+I see no need to continue remaining one on API unless there is a large scale need.
+
+Nearly every server tries to remain up to date.
+
+Plus updating your plugin frequently ensures reaching more users and creates user trust of your future activity.
